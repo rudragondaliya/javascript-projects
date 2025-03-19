@@ -13,6 +13,7 @@ class Student
         console.log(`Name: ${this.name}`);
         console.log(`Age: ${this.age}`);
         console.log(`Course: ${this.course}`);
+        console.log(" ");
         
     }
 }
